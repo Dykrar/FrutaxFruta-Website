@@ -1,9 +1,9 @@
-Based on the Computer Theory chair, we created a game using a state diagram to describe the different phases/menus of the game
+Com base na cadeira da Teoria da Computação, criamos um jogo utilizando um diagrama de estados para descrever as diferentes fases/menus do jogo
 
-Fruta x Fruta was developed in Python with two of its libraries, the arcade and pygame. We use Pygame for the implementation of background music as well as some of the sounds present in the game Instead of using pygame for the whole project, we get it by using the arcade for being more dedicated to platforms, the type of game we undo.
+O Fruta x Fruta foi desenvolvido em Python com duas das suas bibliotecas, o arcade e o pygame. Usamos o Pygamepara a implementaçao da música de fundo bem como alguns dos sons presentes no jogo Em vez de usar o pygame para o projeto todo, obtamos por usar o arcade por ser mais dedicado a plataformas, o tipo de jogo que desenvlvemos.
 
-To make the different Menus of the game, we use Photoshop All maps were designed one by one, in the Tiled application, an application dedicated to creating maps with layers,layers these that can then be individually programmed allowing the creation of obstacles, enemies, etc..
+Para fazer os diferentes Menus do jogo, utilizamos o Photoshop Todos os mapas foram desenhados um por um, na aplicação Tiled, uma aplicação dedicada à criacão de mapas com camadas,camadas estas que podem depois ser individualmente programadas permitindo a criação de obstáculos, inimigos, etc ..
 
-For the creation of the Web Application we use html / css with grids for the easy organization of content. We use heroku to be able to host the application on the web. We use Git to save work and facilitate your remote access.
+Para a criação da Aplicação Web utilizamos o html / css com grids para a facil organização dos conteúdos. Utilizamos o heroku para conseguir alojar a aplicação na web. Utilizamos o Git para guardar o trabalho e facilitar o seu acesso remoto.
 
-The sprites used in this project were obtained through the itch.io The background music used was chosen from the soundcloud The sounds of catching the fruit, how to die were obtained in the zapsplat
+As sprites usadas neste projeto foram obtidas através do itch.io A música de fundo utilizada foi escolhida do soundcloud Os sons de apanhar a fruta, como morrer foram obtidos no zapsplat
