@@ -52,18 +52,19 @@ header {
     background-color: black;
     grid-area: header;   
     color: #3ceecf;
+    margin-left: auto;    
 }
 
-header .logo {
+header .logo {    
     float: left;
-    height: inherit ;
-    margin-left: 40em;
+    height: inherit;   
+     
     
 }
 
 header .logo-text {
     margin: 9px;
-    font-size:4em ;
+    font-size:4em ;    
 }
 
 
@@ -72,8 +73,7 @@ header .logo-text {
 /******* BODY ********/
 
 body {
-    display: grid;    
-
+    display: grid;   
     -webkit-box-align: center;
     align-items: center;
     grid-template-rows: 0.1fr 1fr 0.1fr;
@@ -147,11 +147,13 @@ main {
     
 }
 
-
+main .trailer{
+    width: auto;
+    height: auto;  
+}
 main .trailer img.pc{
     width: auto;
-    height: auto;     
-
+    height: auto;  
 }
 
 main .trailer img.telemovel{
